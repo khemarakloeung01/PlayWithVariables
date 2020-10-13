@@ -1,0 +1,13 @@
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayWithVariablesConsole.exe
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayWithVariablesConsole.deps.json
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayWithVariablesConsole.runtimeconfig.json
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayWithVariablesConsole.runtimeconfig.dev.json
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayWithVariablesConsole.dll
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayWithVariablesConsole.pdb
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayWithVariablesConsole.csprojAssemblyReference.cache
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayWithVariablesConsole.AssemblyInfoInputs.cache
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayWithVariablesConsole.AssemblyInfo.cs
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayWithVariablesConsole.csproj.CoreCompileInputs.cache
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayWithVariablesConsole.dll
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayWithVariablesConsole.pdb
+C:\Users\khema\source\repos\PlayWithVariables\PlayWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayWithVariablesConsole.genruntimeconfig.cache
